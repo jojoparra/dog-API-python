@@ -1,2 +1,2 @@
 # dogproject
-Photos of dogs
+Photos of dogs using public dog API
